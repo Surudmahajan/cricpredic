@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>CricPredic</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  body { background:#f7f9fc; padding:18px; }
+  .disclaimer { color:#6c757d; text-align:center; margin-bottom:14px; }
+  .insufficient { color:#c82333; font-weight:600; }
+  .stats-box { background:#fff; padding:12px; border-radius:8px; box-shadow:0 4px 18px rgba(0,0,0,0.06); }
+  img { max-width:100%; height:auto; display:block; margin: 0 auto; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1 class="text-center">CricPredic</h1>
+  <div class="disclaimer">
+    These predictions are made upon pure calculation from recent references and cannot be considered 100% accurate.
+  </div>
+
+  <div class="row g-3 mb-3">
+    <div class="col-md-4">
+      <label class="form-label">Team 1</label>
+      <select id="team1" class="form-select"></select>
+    </div>
+    <div class="col-md-4">
+      <label class="form-label">Team 2</label>
+      <select id="team2" class="form-select"></select>
+    </div>
+    <div class="col-md-4">
+      <label class="form-label">Format</label>
+      <select id="format" class="form-select"></select>
+    </div>
+  </div>
+
+  <div class="text-center mb-3">
+    <button id="predictBtn" class="btn btn-primary">Predict</button>
+  </div>
+
+  <div id="warning" style="display:none;" class="insufficient mb-2"></div>
+
+  <div class="row">
+    <div class="col-md-6">
+      <div id="statsArea" class="stats-box" style="display:none;">
+        <h5>Stats used</h5>
+        <div id="statsContent"></div>
+      </div>
+    </div>
+    <div class="col-md-6 text-center">
+      <div id="chartArea" style="display:none;">
+        <img id="chartImg" alt="chart">
+      </div>
+    </div>
+  </div>
+
+  <h3 class="mt-4">Live Cricket Scores</h3>
+<iframe
+  src="https://widget.crictimes.org/"
+  style="width:100%; min-height:450px;"
+  frameborder="0"
+  scrolling="yes"
+></iframe>
+
+<script>
+async function loadTeams(){
+  const res = await fetch('/teams');
+  const teams = await res.json();
+  const t1 = document.getElementById('team1'), t2 = document.getElementById('team2');
+  t1.innerHTML = ""; t2.innerHTML = "";
+  teams.forEach(code => {
+    t1.add(new Option(code, code));
+    t2.add(new Option(code, code));
+  });
+}
+
+async function loadFormats(){
+  const res = await fetch('/formats');
+  const fmts = await res.json();
+  const sel = document.getElementById('format');
+  sel.innerHTML = "";
+  fmts.forEach(f => sel.add(new Option(f, f)));
+  if(fmts.length === 0){
+    ['ODI','T20I','TEST'].forEach(f => sel.add(new Option(f,f)));
+  }
+}
+
+document.getElementById('predictBtn').addEventListener('click', async () => {
+  const team1 = document.getElementById('team1').value;
+  const team2 = document.getElementById('team2').value;
+  const format = document.getElementById('format').value;
+
+  if(!team1 || !team2 || !format){ alert("Please select teams and format."); return; }
+  if(team1 === team2){ alert("Choose two different teams."); return; }
+
+  try{
+    const res = await fetch('/predict',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({team1, team2, format})
+    });
+    const data = await res.json();
+    if(data.error){ alert(data.error); return; }
+
+    // Warning
+    const warning = document.getElementById('warning');
+    if(data.insufficient_data){
+      warning.style.display = 'block';
+      warning.textContent = 'Insufficient data for a confident prediction — results may be unreliable.';
+    } else {
+      warning.style.display = 'none';
+    }
+
+    // Stats
+    const statsArea = document.getElementById('statsArea');
+    const sc = data.stats;
+    statsArea.style.display = 'block';
+    document.getElementById('statsContent').innerHTML = `
+      <strong>${data.team1}</strong> — matches used: ${sc.team1.total}, wins: ${sc.team1.wins}, win_ratio: ${(sc.team1.win_ratio*100).toFixed(1)}%<br>
+      <strong>${data.team2}</strong> — matches used: ${sc.team2.total}, wins: ${sc.team2.wins}, win_ratio: ${(sc.team2.win_ratio*100).toFixed(1)}%<br>
+      <small>Head-to-head used: ${sc.team1_head_to_head_used} / ${sc.team2_head_to_head_used}</small><br>
+      <small>Fallback used: ${sc.team1_fallback_used} / ${sc.team2_fallback_used}</small>
+    `;
+
+    // Chart
+    if(data.chart){
+      document.getElementById('chartImg').src = 'data:image/png;base64,' + data.chart;
+      document.getElementById('chartArea').style.display = 'block';
+    } else {
+      document.getElementById('chartArea').style.display = 'none';
+    }
+
+  }catch(err){
+    console.error(err);
+    alert('Prediction failed — check console for details.');
+  }
+});
+
+loadTeams();
+loadFormats();
+</script>
+</body>
+</html>

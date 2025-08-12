@@ -1,0 +1,752 @@
+﻿Team,Result,Margin,Toss,Bat,Format,Opponent,Ground,Start Date
+IND ,won,200 runs,lost,1st,ODI , West Indies,Tarouba,01-Aug-23
+IND ,lost,4 runs,lost,2nd,T20I , West Indies,Tarouba,03-Aug-23
+IND ,lost,2 wickets,won,1st,T20I , West Indies,Providence,06-Aug-23
+IND ,won,7 wickets,lost,2nd,T20I , West Indies,Providence,08-Aug-23
+IND ,won,9 wickets,lost,2nd,T20I , West Indies,Lauderhill,12-Aug-23
+IND ,lost,8 wickets,won,1st,T20I , West Indies,Lauderhill,13-Aug-23
+IND ,won,2 runs,won,2nd,T20I , Ireland,Dublin (Malahide),18-Aug-23
+IND ,won,33 runs,lost,1st,T20I , Ireland,Dublin (Malahide),20-Aug-23
+IND ,aban,-,-,-,T20I , Ireland,Dublin (Malahide),23-Aug-23
+IND ,n/r,-,won,1st,ODI , Pakistan,Pallekele,02-Sep-23
+IND ,won,10 wickets,won,2nd,ODI , Nepal,Pallekele,04-Sep-23
+IND ,won,228 runs,lost,1st,ODI , Pakistan,Colombo (RPS),10-Sep-23
+IND ,won,41 runs,won,1st,ODI , Sri Lanka,Colombo (RPS),12-Sep-23
+IND ,lost,6 runs,won,2nd,ODI , Bangladesh,Colombo (RPS),15-Sep-23
+IND ,won,10 wickets,lost,2nd,ODI , Sri Lanka,Colombo (RPS),17-Sep-23
+IND ,won,5 wickets,won,2nd,ODI , Australia,Mohali,22-Sep-23
+IND ,won,99 runs,lost,1st,ODI , Australia,Indore,24-Sep-23
+IND ,lost,66 runs,lost,2nd,ODI , Australia,Rajkot,27-Sep-23
+IND ,won,23 runs,won,1st,T20I , Nepal,Hangzhou,03-Oct-23
+IND ,won,9 wickets,won,2nd,T20I , Bangladesh,Hangzhou,06-Oct-23
+IND ,n/r,-,won,2nd,T20I , Afghanistan,Hangzhou,07-Oct-23
+IND ,won,6 wickets,lost,2nd,ODI , Australia,Chennai,08-Oct-23
+IND ,won,8 wickets,lost,2nd,ODI , Afghanistan,Delhi,11-Oct-23
+IND ,won,7 wickets,won,2nd,ODI , Pakistan,Ahmedabad,14-Oct-23
+IND ,won,7 wickets,lost,2nd,ODI , Bangladesh,Pune,19-Oct-23
+IND ,won,4 wickets,won,2nd,ODI , New Zealand,Dharamsala,22-Oct-23
+IND ,won,100 runs,lost,1st,ODI , England,Lucknow,29-Oct-23
+IND ,won,302 runs,lost,1st,ODI , Sri Lanka,Wankhede,02-Nov-23
+IND ,won,243 runs,won,1st,ODI , South Africa,Eden Gardens,05-Nov-23
+IND ,won,160 runs,won,1st,ODI , Netherlands,Bengaluru,12-Nov-23
+IND ,won,70 runs,won,1st,ODI , New Zealand,Wankhede,15-Nov-23
+IND ,lost,6 wickets,lost,1st,ODI , Australia,Ahmedabad,19-Nov-23
+IND ,won,2 wickets,won,2nd,T20I , Australia,Visakhapatnam,23-Nov-23
+IND ,won,44 runs,lost,1st,T20I , Australia,Thiruvananthapuram,26-Nov-23
+IND ,lost,5 wickets,lost,1st,T20I , Australia,Guwahati,28-Nov-23
+IND ,won,20 runs,lost,1st,T20I , Australia,Raipur,01-Dec-23
+IND ,won,6 runs,lost,1st,T20I , Australia,Bengaluru,03-Dec-23
+IND ,aban,-,-,-,T20I , South Africa,Durban,10-Dec-23
+IND ,lost,5 wickets,lost,1st,T20I , South Africa,Gqeberha,12-Dec-23
+IND ,won,106 runs,lost,1st,T20I , South Africa,Johannesburg,14-Dec-23
+IND ,won,8 wickets,lost,2nd,ODI , South Africa,Johannesburg,17-Dec-23
+IND ,lost,8 wickets,lost,1st,ODI , South Africa,Gqeberha,19-Dec-23
+IND ,won,78 runs,lost,1st,ODI , South Africa,Paarl,21-Dec-23
+IND ,lost,inns & 32 runs,lost,1st,Test , South Africa,Centurion,26-Dec-23
+IND ,won,7 wickets,lost,2nd,Test , South Africa,Cape Town,03-Jan-24
+IND ,won,6 wickets,won,2nd,T20I , Afghanistan,Mohali,11-Jan-24
+IND ,won,6 wickets,won,2nd,T20I , Afghanistan,Indore,14-Jan-24
+IND ,tied,-,won,1st,T20I , Afghanistan,Bengaluru,17-Jan-24
+IND ,lost,28 runs,lost,2nd,Test , England,Hyderabad,25-Jan-24
+IND ,won,106 runs,won,1st,Test , England,Visakhapatnam,02-Feb-24
+IND ,won,434 runs,won,1st,Test , England,Rajkot,15-Feb-24
+IND ,won,5 wickets,lost,2nd,Test , England,Ranchi,23-Feb-24
+IND ,won,inns & 64 runs,lost,2nd,Test , England,Dharamsala,07-Mar-24
+IND ,won,8 wickets,won,2nd,T20I , Ireland,New York,05-Jun-24
+IND ,won,6 runs,lost,1st,T20I , Pakistan,New York,09-Jun-24
+IND ,won,7 wickets,won,2nd,T20I , U.S.A.,New York,12-Jun-24
+IND ,aban,-,-,-,T20I , Canada,Lauderhill,15-Jun-24
+IND ,won,47 runs,won,1st,T20I , Afghanistan,Bridgetown,20-Jun-24
+IND ,won,50 runs,lost,1st,T20I , Bangladesh,North Sound,22-Jun-24
+IND ,won,24 runs,lost,1st,T20I , Australia,Gros Islet,24-Jun-24
+IND ,won,68 runs,lost,1st,T20I , England,Providence,27-Jun-24
+IND ,won,7 runs,won,1st,T20I , South Africa,Bridgetown,29-Jun-24
+IND ,lost,13 runs,won,2nd,T20I , Zimbabwe,Harare,06-Jul-24
+IND ,won,100 runs,won,1st,T20I , Zimbabwe,Harare,07-Jul-24
+IND ,won,23 runs,won,1st,T20I , Zimbabwe,Harare,10-Jul-24
+IND ,won,10 wickets,won,2nd,T20I , Zimbabwe,Harare,13-Jul-24
+IND ,won,42 runs,lost,1st,T20I , Zimbabwe,Harare,14-Jul-24
+IND ,won,43 runs,lost,1st,T20I , Sri Lanka,Pallekele,27-Jul-24
+IND ,won,7 wickets,won,2nd,T20I , Sri Lanka,Pallekele,28-Jul-24
+IND ,tied,-,lost,1st,T20I , Sri Lanka,Pallekele,30-Jul-24
+IND ,tied,-,lost,2nd,ODI , Sri Lanka,Colombo (RPS),02-Aug-24
+IND ,lost,32 runs,lost,2nd,ODI , Sri Lanka,Colombo (RPS),04-Aug-24
+IND ,lost,110 runs,lost,2nd,ODI , Sri Lanka,Colombo (RPS),07-Aug-24
+IND ,won,280 runs,lost,1st,Test , Bangladesh,Chennai,19-Sep-24
+IND ,won,7 wickets,won,2nd,Test , Bangladesh,Kanpur,27-Sep-24
+IND ,won,7 wickets,won,2nd,T20I , Bangladesh,Gwalior,06-Oct-24
+IND ,won,86 runs,lost,1st,T20I , Bangladesh,Delhi,09-Oct-24
+IND ,won,133 runs,won,1st,T20I , Bangladesh,Hyderabad,12-Oct-24
+IND ,lost,8 wickets,won,1st,Test , New Zealand,Bengaluru,16-Oct-24
+IND ,lost,113 runs,lost,2nd,Test , New Zealand,Pune,24-Oct-24
+IND ,lost,25 runs,lost,2nd,Test , New Zealand,Wankhede,01-Nov-24
+IND ,won,61 runs,lost,1st,T20I , South Africa,Durban,08-Nov-24
+IND ,lost,3 wickets,lost,1st,T20I , South Africa,Gqeberha,10-Nov-24
+IND ,won,11 runs,lost,1st,T20I , South Africa,Centurion,13-Nov-24
+IND ,won,135 runs,won,1st,T20I , South Africa,Johannesburg,15-Nov-24
+IND ,won,295 runs,won,1st,Test , Australia,Perth,22-Nov-24
+IND ,lost,10 wickets,won,1st,Test , Australia,Adelaide,06-Dec-24
+IND ,draw,-,won,2nd,Test , Australia,Brisbane,14-Dec-24
+IND ,lost,184 runs,lost,2nd,Test , Australia,Melbourne,26-Dec-24
+IND ,lost,6 wickets,won,1st,Test , Australia,Sydney,03-Jan-25
+IND ,won,7 wickets,won,2nd,T20I , England,Eden Gardens,22-Jan-25
+IND ,won,2 wickets,won,2nd,T20I , England,Chennai,25-Jan-25
+IND ,lost,26 runs,won,2nd,T20I , England,Rajkot,28-Jan-25
+IND ,won,15 runs,lost,1st,T20I , England,Pune,31-Jan-25
+IND ,won,150 runs,lost,1st,T20I , England,Wankhede,02-Feb-25
+IND ,won,4 wickets,lost,2nd,ODI , England,Nagpur,06-Feb-25
+IND ,won,4 wickets,lost,2nd,ODI , England,Cuttack,09-Feb-25
+IND ,won,142 runs,lost,1st,ODI , England,Ahmedabad,12-Feb-25
+IND ,won,6 wickets,lost,2nd,ODI , Bangladesh,Dubai (DICS),20-Feb-25
+IND ,won,6 wickets,lost,2nd,ODI , Pakistan,Dubai (DICS),23-Feb-25
+IND ,won,44 runs,lost,1st,ODI , New Zealand,Dubai (DICS),02-Mar-25
+IND ,won,4 wickets,lost,2nd,ODI , Australia,Dubai (DICS),04-Mar-25
+IND ,won,4 wickets,lost,2nd,ODI , New Zealand,Dubai (DICS),09-Mar-25
+IND ,lost,5 wickets,lost,1st,Test , England,Leeds,20-Jun-25
+IND ,won,336 runs,lost,1st,Test , England,Birmingham,02-Jul-25
+IND ,lost,22 runs,lost,2nd,Test , England,Lord's,10-Jul-25
+IND ,draw,-,lost,1st,Test , England,Manchester,23-Jul-25
+IND ,won,6 runs,lost,1st,Test , England,The Oval,31-Jul-25
+AUS ,won,111 runs,lost,1st,T20I , South Africa,Durban,30-Aug-23
+AUS ,won,8 wickets,won,2nd,T20I , South Africa,Durban,01-Sep-23
+AUS ,won,5 wickets,lost,2nd,T20I , South Africa,Durban,03-Sep-23
+AUS ,won,3 wickets,won,2nd,ODI , South Africa,Bloemfontein,07-Sep-23
+AUS ,won,123 runs,lost,1st,ODI , South Africa,Bloemfontein,09-Sep-23
+AUS ,lost,111 runs,won,2nd,ODI , South Africa,Potchefstroom,12-Sep-23
+AUS ,lost,164 runs,won,2nd,ODI , South Africa,Centurion,15-Sep-23
+AUS ,lost,122 runs,won,2nd,ODI , South Africa,Johannesburg,17-Sep-23
+AUS ,lost,5 wickets,lost,1st,ODI , India,Mohali,22-Sep-23
+AUS ,lost,99 runs,won,2nd,ODI , India,Indore,24-Sep-23
+AUS ,won,66 runs,won,1st,ODI , India,Rajkot,27-Sep-23
+AUS ,lost,6 wickets,won,1st,ODI , India,Chennai,08-Oct-23
+AUS ,lost,134 runs,won,2nd,ODI , South Africa,Lucknow,12-Oct-23
+AUS ,won,5 wickets,lost,2nd,ODI , Sri Lanka,Lucknow,16-Oct-23
+AUS ,won,62 runs,lost,1st,ODI , Pakistan,Bengaluru,20-Oct-23
+AUS ,won,309 runs,won,1st,ODI , Netherlands,Delhi,25-Oct-23
+AUS ,won,5 runs,lost,1st,ODI , New Zealand,Dharamsala,28-Oct-23
+AUS ,won,33 runs,lost,1st,ODI , England,Ahmedabad,04-Nov-23
+AUS ,won,3 wickets,lost,2nd,ODI , Afghanistan,Wankhede,07-Nov-23
+AUS ,won,8 wickets,won,2nd,ODI , Bangladesh,Pune,11-Nov-23
+AUS ,won,3 wickets,lost,2nd,ODI , South Africa,Eden Gardens,16-Nov-23
+AUS ,won,6 wickets,won,2nd,ODI , India,Ahmedabad,19-Nov-23
+AUS ,lost,2 wickets,lost,1st,T20I , India,Visakhapatnam,23-Nov-23
+AUS ,lost,44 runs,won,2nd,T20I , India,Thiruvananthapuram,26-Nov-23
+AUS ,won,5 wickets,won,2nd,T20I , India,Guwahati,28-Nov-23
+AUS ,lost,20 runs,won,2nd,T20I , India,Raipur,01-Dec-23
+AUS ,lost,6 runs,won,2nd,T20I , India,Bengaluru,03-Dec-23
+AUS ,won,360 runs,won,1st,Test , Pakistan,Perth,14-Dec-23
+AUS ,won,79 runs,lost,1st,Test , Pakistan,Melbourne,26-Dec-23
+AUS ,won,8 wickets,lost,2nd,Test , Pakistan,Sydney,03-Jan-24
+AUS ,won,10 wickets,won,2nd,Test , West Indies,Adelaide,17-Jan-24
+AUS ,lost,8 runs,lost,2nd,Test , West Indies,Brisbane,25-Jan-24
+AUS ,won,8 wickets,won,2nd,ODI , West Indies,Melbourne,02-Feb-24
+AUS ,won,83 runs,lost,1st,ODI , West Indies,Sydney,04-Feb-24
+AUS ,won,8 wickets,won,2nd,ODI , West Indies,Canberra,06-Feb-24
+AUS ,won,11 runs,lost,1st,T20I , West Indies,Hobart,09-Feb-24
+AUS ,won,34 runs,lost,1st,T20I , West Indies,Adelaide,11-Feb-24
+AUS ,lost,37 runs,lost,2nd,T20I , West Indies,Perth,13-Feb-24
+AUS ,won,6 wickets,lost,2nd,T20I , New Zealand,Wellington,21-Feb-24
+AUS ,won,72 runs,lost,1st,T20I , New Zealand,Auckland,23-Feb-24
+AUS ,won,27 runs,lost,1st,T20I , New Zealand,Auckland,25-Feb-24
+AUS ,won,172 runs,lost,1st,Test , New Zealand,Wellington,29-Feb-24
+AUS ,won,3 wickets,won,2nd,Test , New Zealand,Christchurch,08-Mar-24
+AUS ,won,39 runs,lost,1st,T20I , Oman,Bridgetown,05-Jun-24
+AUS ,won,36 runs,lost,1st,T20I , England,Bridgetown,08-Jun-24
+AUS ,won,9 wickets,won,2nd,T20I , Namibia,North Sound,11-Jun-24
+AUS ,won,5 wickets,won,2nd,T20I , Scotland,Gros Islet,15-Jun-24
+AUS ,won,28 runs,won,2nd,T20I , Bangladesh,North Sound,20-Jun-24
+AUS ,lost,21 runs,won,2nd,T20I , Afghanistan,Kingstown,22-Jun-24
+AUS ,lost,24 runs,won,2nd,T20I , India,Gros Islet,24-Jun-24
+AUS ,won,7 wickets,won,2nd,T20I , Scotland,Edinburgh,04-Sep-24
+AUS ,won,70 runs,lost,1st,T20I , Scotland,Edinburgh,06-Sep-24
+AUS ,won,6 wickets,won,2nd,T20I , Scotland,Edinburgh,07-Sep-24
+AUS ,won,28 runs,lost,1st,T20I , England,Southampton,11-Sep-24
+AUS ,lost,3 wickets,lost,1st,T20I , England,Cardiff,13-Sep-24
+AUS ,won,7 wickets,lost,2nd,ODI , England,Nottingham,19-Sep-24
+AUS ,won,68 runs,lost,1st,ODI , England,Leeds,21-Sep-24
+AUS ,lost,46 runs,lost,1st,ODI , England,Chester-le-Street,24-Sep-24
+AUS ,lost,186 runs,won,2nd,ODI , England,Lord's,27-Sep-24
+AUS ,won,49 runs,won,2nd,ODI , England,Bristol,29-Sep-24
+AUS ,won,2 wickets,won,2nd,ODI , Pakistan,Melbourne,04-Nov-24
+AUS ,lost,9 wickets,lost,1st,ODI , Pakistan,Adelaide,08-Nov-24
+AUS ,lost,8 wickets,lost,1st,ODI , Pakistan,Perth,10-Nov-24
+AUS ,won,29 runs,lost,1st,T20I , Pakistan,Brisbane,14-Nov-24
+AUS ,won,13 runs,won,1st,T20I , Pakistan,Sydney,16-Nov-24
+AUS ,won,7 wickets,lost,2nd,T20I , Pakistan,Hobart,18-Nov-24
+AUS ,lost,295 runs,lost,2nd,Test , India,Perth,22-Nov-24
+AUS ,won,10 wickets,lost,2nd,Test , India,Adelaide,06-Dec-24
+AUS ,draw,-,lost,1st,Test , India,Brisbane,14-Dec-24
+AUS ,won,184 runs,won,1st,Test , India,Melbourne,26-Dec-24
+AUS ,won,6 wickets,lost,2nd,Test , India,Sydney,03-Jan-25
+AUS ,won,inns & 242 runs,won,1st,Test , Sri Lanka,Galle,29-Jan-25
+AUS ,won,9 wickets,lost,2nd,Test , Sri Lanka,Galle,06-Feb-25
+AUS ,lost,49 runs,lost,2nd,ODI , Sri Lanka,Colombo (RPS),12-Feb-25
+AUS ,lost,174 runs,lost,2nd,ODI , Sri Lanka,Colombo (RPS),14-Feb-25
+AUS ,won,5 wickets,won,2nd,ODI , England,Lahore,22-Feb-25
+AUS ,n/r,-,lost,2nd,ODI , Afghanistan,Lahore,28-Feb-25
+AUS ,lost,4 wickets,won,1st,ODI , India,Dubai (DICS),04-Mar-25
+AUS ,lost,5 wickets,lost,1st,Test , South Africa,Lord's,11-Jun-25
+AUS ,won,159 runs,won,1st,Test , West Indies,Bridgetown,25-Jun-25
+AUS ,won,133 runs,won,1st,Test , West Indies,St George's,03-Jul-25
+AUS ,won,176 runs,won,1st,Test , West Indies,Kingston,12-Jul-25
+AUS ,won,3 wickets,won,2nd,T20I , West Indies,Kingston,20-Jul-25
+AUS ,won,8 wickets,won,2nd,T20I , West Indies,Kingston,22-Jul-25
+AUS ,won,6 wickets,won,2nd,T20I , West Indies,Basseterre,25-Jul-25
+AUS ,won,3 wickets,won,2nd,T20I , West Indies,Basseterre,26-Jul-25
+AUS ,won,3 wickets,won,2nd,T20I , West Indies,Basseterre,28-Jul-25
+ENG ,won,7 wickets,won,2nd,T20I , New Zealand,Chester-le-Street,30-Aug-23
+ENG ,won,95 runs,won,1st,T20I , New Zealand,Manchester,01-Sep-23
+ENG ,lost,74 runs,lost,2nd,T20I , New Zealand,Birmingham,03-Sep-23
+ENG ,lost,6 wickets,won,1st,T20I , New Zealand,Nottingham,05-Sep-23
+ENG ,lost,8 wickets,lost,1st,ODI , New Zealand,Cardiff,08-Sep-23
+ENG ,won,79 runs,lost,1st,ODI , New Zealand,Southampton,10-Sep-23
+ENG ,won,181 runs,lost,1st,ODI , New Zealand,The Oval,13-Sep-23
+ENG ,won,100 runs,won,1st,ODI , New Zealand,Lord's,15-Sep-23
+ENG ,won,48 runs,lost,1st,ODI , Ireland,Nottingham,23-Sep-23
+ENG ,n/r,-,lost,1st,ODI , Ireland,Bristol,26-Sep-23
+ENG ,lost,9 wickets,lost,1st,ODI , New Zealand,Ahmedabad,05-Oct-23
+ENG ,won,137 runs,lost,1st,ODI , Bangladesh,Dharamsala,10-Oct-23
+ENG ,lost,69 runs,won,2nd,ODI , Afghanistan,Delhi,15-Oct-23
+ENG ,lost,229 runs,won,2nd,ODI , South Africa,Wankhede,21-Oct-23
+ENG ,lost,8 wickets,won,1st,ODI , Sri Lanka,Bengaluru,26-Oct-23
+ENG ,lost,100 runs,won,2nd,ODI , India,Lucknow,29-Oct-23
+ENG ,lost,33 runs,won,2nd,ODI , Australia,Ahmedabad,04-Nov-23
+ENG ,won,160 runs,won,1st,ODI , Netherlands,Pune,08-Nov-23
+ENG ,won,93 runs,won,1st,ODI , Pakistan,Eden Gardens,11-Nov-23
+ENG ,lost,4 wickets,won,1st,ODI , West Indies,North Sound,03-Dec-23
+ENG ,won,6 wickets,won,2nd,ODI , West Indies,North Sound,06-Dec-23
+ENG ,lost,4 wickets,lost,1st,ODI , West Indies,Bridgetown,09-Dec-23
+ENG ,lost,4 wickets,lost,1st,T20I , West Indies,Bridgetown,12-Dec-23
+ENG ,lost,10 runs,won,2nd,T20I , West Indies,St George's,14-Dec-23
+ENG ,won,7 wickets,won,2nd,T20I , West Indies,St George's,16-Dec-23
+ENG ,won,75 runs,lost,1st,T20I , West Indies,Tarouba,19-Dec-23
+ENG ,lost,4 wickets,lost,1st,T20I , West Indies,Tarouba,21-Dec-23
+ENG ,won,28 runs,won,1st,Test , India,Hyderabad,25-Jan-24
+ENG ,lost,106 runs,lost,2nd,Test , India,Visakhapatnam,02-Feb-24
+ENG ,lost,434 runs,lost,2nd,Test , India,Rajkot,15-Feb-24
+ENG ,lost,5 wickets,won,1st,Test , India,Ranchi,23-Feb-24
+ENG ,lost,inns & 64 runs,won,1st,Test , India,Dharamsala,07-Mar-24
+ENG ,won,23 runs,lost,1st,T20I , Pakistan,Birmingham,25-May-24
+ENG ,won,7 wickets,won,2nd,T20I , Pakistan,The Oval,30-May-24
+ENG ,n/r,-,lost,2nd,T20I , Scotland,Bridgetown,04-Jun-24
+ENG ,lost,36 runs,won,2nd,T20I , Australia,Bridgetown,08-Jun-24
+ENG ,won,8 wickets,won,2nd,T20I , Oman,North Sound,13-Jun-24
+ENG ,won,41 runs,lost,1st,T20I , Namibia,North Sound,15-Jun-24
+ENG ,won,8 wickets,won,2nd,T20I , West Indies,Gros Islet,19-Jun-24
+ENG ,lost,7 runs,won,2nd,T20I , South Africa,Gros Islet,21-Jun-24
+ENG ,won,10 wickets,won,2nd,T20I , U.S.A.,Bridgetown,23-Jun-24
+ENG ,lost,68 runs,won,2nd,T20I , India,Providence,27-Jun-24
+ENG ,won,inns & 114 runs,won,2nd,Test , West Indies,Lord's,10-Jul-24
+ENG ,won,241 runs,lost,1st,Test , West Indies,Nottingham,18-Jul-24
+ENG ,won,10 wickets,lost,2nd,Test , West Indies,Birmingham,26-Jul-24
+ENG ,won,5 wickets,lost,2nd,Test , Sri Lanka,Manchester,21-Aug-24
+ENG ,won,190 runs,lost,1st,Test , Sri Lanka,Lord's,29-Aug-24
+ENG ,lost,8 wickets,lost,1st,Test , Sri Lanka,The Oval,06-Sep-24
+ENG ,lost,28 runs,won,2nd,T20I , Australia,Southampton,11-Sep-24
+ENG ,won,3 wickets,won,2nd,T20I , Australia,Cardiff,13-Sep-24
+ENG ,lost,7 wickets,won,1st,ODI , Australia,Nottingham,19-Sep-24
+ENG ,lost,68 runs,won,2nd,ODI , Australia,Leeds,21-Sep-24
+ENG ,won,46 runs,won,2nd,ODI , Australia,Chester-le-Street,24-Sep-24
+ENG ,won,186 runs,lost,1st,ODI , Australia,Lord's,27-Sep-24
+ENG ,lost,49 runs,lost,1st,ODI , Australia,Bristol,29-Sep-24
+ENG ,won,inns & 47 runs,lost,2nd,Test , Pakistan,Multan,07-Oct-24
+ENG ,lost,152 runs,lost,2nd,Test , Pakistan,Multan,15-Oct-24
+ENG ,lost,9 wickets,won,1st,Test , Pakistan,Rawalpindi,24-Oct-24
+ENG ,lost,8 wickets,lost,1st,ODI , West Indies,North Sound,31-Oct-24
+ENG ,won,5 wickets,won,2nd,ODI , West Indies,North Sound,02-Nov-24
+ENG ,lost,8 wickets,lost,1st,ODI , West Indies,Bridgetown,06-Nov-24
+ENG ,won,8 wickets,won,2nd,T20I , West Indies,Bridgetown,09-Nov-24
+ENG ,won,7 wickets,won,2nd,T20I , West Indies,Bridgetown,10-Nov-24
+ENG ,won,3 wickets,won,2nd,T20I , West Indies,Gros Islet,14-Nov-24
+ENG ,lost,5 wickets,lost,1st,T20I , West Indies,Gros Islet,16-Nov-24
+ENG ,n/r,-,won,2nd,T20I , West Indies,Gros Islet,17-Nov-24
+ENG ,won,8 wickets,won,2nd,Test , New Zealand,Christchurch,28-Nov-24
+ENG ,won,323 runs,lost,1st,Test , New Zealand,Wellington,06-Dec-24
+ENG ,lost,423 runs,won,2nd,Test , New Zealand,Hamilton,14-Dec-24
+ENG ,lost,7 wickets,lost,1st,T20I , India,Eden Gardens,22-Jan-25
+ENG ,lost,2 wickets,lost,1st,T20I , India,Chennai,25-Jan-25
+ENG ,won,26 runs,lost,1st,T20I , India,Rajkot,28-Jan-25
+ENG ,lost,15 runs,won,2nd,T20I , India,Pune,31-Jan-25
+ENG ,lost,150 runs,won,2nd,T20I , India,Wankhede,02-Feb-25
+ENG ,lost,4 wickets,won,1st,ODI , India,Nagpur,06-Feb-25
+ENG ,lost,4 wickets,won,1st,ODI , India,Cuttack,09-Feb-25
+ENG ,lost,142 runs,won,2nd,ODI , India,Ahmedabad,12-Feb-25
+ENG ,lost,5 wickets,lost,1st,ODI , Australia,Lahore,22-Feb-25
+ENG ,lost,8 runs,lost,2nd,ODI , Afghanistan,Lahore,26-Feb-25
+ENG ,lost,7 wickets,won,1st,ODI , South Africa,Karachi,01-Mar-25
+ENG ,won,inns & 45 runs,lost,1st,Test , Zimbabwe,Nottingham,22-May-25
+ENG ,won,238 runs,lost,1st,ODI , West Indies,Birmingham,29-May-25
+ENG ,won,3 wickets,won,2nd,ODI , West Indies,Cardiff,01-Jun-25
+ENG ,won,7 wickets,won,2nd,ODI , West Indies,The Oval,03-Jun-25
+ENG ,won,21 runs,won,1st,T20I , West Indies,Chester-le-Street,06-Jun-25
+ENG ,won,4 wickets,won,2nd,T20I , West Indies,Bristol,08-Jun-25
+ENG ,won,37 runs,lost,1st,T20I , West Indies,Southampton,10-Jun-25
+ENG ,won,5 wickets,won,2nd,Test , India,Leeds,20-Jun-25
+ENG ,lost,336 runs,won,2nd,Test , India,Birmingham,02-Jul-25
+ENG ,won,22 runs,won,1st,Test , India,Lord's,10-Jul-25
+ENG ,draw,-,won,2nd,Test , India,Manchester,23-Jul-25
+ENG ,lost,6 runs,won,2nd,Test , India,The Oval,31-Jul-25
+WI ,lost,200 runs,won,2nd,ODI , India,Tarouba,01-Aug-23
+WI ,won,4 runs,won,1st,T20I , India,Tarouba,03-Aug-23
+WI ,won,2 wickets,lost,2nd,T20I , India,Providence,06-Aug-23
+WI ,lost,7 wickets,won,1st,T20I , India,Providence,08-Aug-23
+WI ,lost,9 wickets,won,1st,T20I , India,Lauderhill,12-Aug-23
+WI ,won,8 wickets,lost,2nd,T20I , India,Lauderhill,13-Aug-23
+WI ,won,4 wickets,lost,2nd,ODI , England,North Sound,03-Dec-23
+WI ,lost,6 wickets,lost,1st,ODI , England,North Sound,06-Dec-23
+WI ,won,4 wickets,won,2nd,ODI , England,Bridgetown,09-Dec-23
+WI ,won,4 wickets,won,2nd,T20I , England,Bridgetown,12-Dec-23
+WI ,won,10 runs,lost,1st,T20I , England,St George's,14-Dec-23
+WI ,lost,7 wickets,lost,1st,T20I , England,St George's,16-Dec-23
+WI ,lost,75 runs,won,2nd,T20I , England,Tarouba,19-Dec-23
+WI ,won,4 wickets,won,2nd,T20I , England,Tarouba,21-Dec-23
+WI ,lost,10 wickets,lost,1st,Test , Australia,Adelaide,17-Jan-24
+WI ,won,8 runs,won,1st,Test , Australia,Brisbane,25-Jan-24
+WI ,lost,8 wickets,lost,1st,ODI , Australia,Melbourne,02-Feb-24
+WI ,lost,83 runs,won,2nd,ODI , Australia,Sydney,04-Feb-24
+WI ,lost,8 wickets,lost,1st,ODI , Australia,Canberra,06-Feb-24
+WI ,lost,11 runs,won,2nd,T20I , Australia,Hobart,09-Feb-24
+WI ,lost,34 runs,won,2nd,T20I , Australia,Adelaide,11-Feb-24
+WI ,won,37 runs,won,1st,T20I , Australia,Perth,13-Feb-24
+WI ,won,28 runs,lost,1st,T20I , South Africa,Kingston,23-May-24
+WI ,won,16 runs,won,1st,T20I , South Africa,Kingston,25-May-24
+WI ,won,8 wickets,lost,2nd,T20I , South Africa,Kingston,26-May-24
+WI ,won,5 wickets,won,2nd,T20I , P.N.G.,Providence,02-Jun-24
+WI ,won,134 runs,won,1st,T20I , Uganda,Providence,08-Jun-24
+WI ,won,13 runs,lost,1st,T20I , New Zealand,Tarouba,12-Jun-24
+WI ,won,104 runs,lost,1st,T20I , Afghanistan,Gros Islet,17-Jun-24
+WI ,lost,8 wickets,lost,1st,T20I , England,Gros Islet,19-Jun-24
+WI ,won,9 wickets,won,2nd,T20I , U.S.A.,Bridgetown,21-Jun-24
+WI ,lost,3 wickets,lost,1st,T20I , South Africa,North Sound,23-Jun-24
+WI ,lost,inns & 114 runs,lost,1st,Test , England,Lord's,10-Jul-24
+WI ,lost,241 runs,won,2nd,Test , England,Nottingham,18-Jul-24
+WI ,lost,10 wickets,won,1st,Test , England,Birmingham,26-Jul-24
+WI ,draw,-,lost,2nd,Test , South Africa,Port of Spain,07-Aug-24
+WI ,lost,40 runs,lost,2nd,Test , South Africa,Providence,15-Aug-24
+WI ,won,7 wickets,won,2nd,T20I , South Africa,Tarouba,23-Aug-24
+WI ,won,30 runs,lost,1st,T20I , South Africa,Tarouba,25-Aug-24
+WI ,won,8 wickets,won,2nd,T20I , South Africa,Tarouba,27-Aug-24
+WI ,won,5 wickets,won,2nd,T20I , Sri Lanka,Dambulla,13-Oct-24
+WI ,lost,73 runs,lost,2nd,T20I , Sri Lanka,Dambulla,15-Oct-24
+WI ,lost,9 wickets,won,1st,T20I , Sri Lanka,Dambulla,17-Oct-24
+WI ,lost,5 wickets,won,1st,ODI , Sri Lanka,Pallekele,20-Oct-24
+WI ,lost,5 wickets,lost,1st,ODI , Sri Lanka,Pallekele,23-Oct-24
+WI ,won,8 wickets,won,2nd,ODI , Sri Lanka,Pallekele,26-Oct-24
+WI ,won,8 wickets,won,2nd,ODI , England,North Sound,31-Oct-24
+WI ,lost,5 wickets,lost,1st,ODI , England,North Sound,02-Nov-24
+WI ,won,8 wickets,won,2nd,ODI , England,Bridgetown,06-Nov-24
+WI ,lost,8 wickets,lost,1st,T20I , England,Bridgetown,09-Nov-24
+WI ,lost,7 wickets,lost,1st,T20I , England,Bridgetown,10-Nov-24
+WI ,lost,3 wickets,lost,1st,T20I , England,Gros Islet,14-Nov-24
+WI ,won,5 wickets,won,2nd,T20I , England,Gros Islet,16-Nov-24
+WI ,n/r,-,lost,1st,T20I , England,Gros Islet,17-Nov-24
+WI ,won,201 runs,lost,1st,Test , Bangladesh,North Sound,22-Nov-24
+WI ,lost,101 runs,lost,2nd,Test , Bangladesh,Kingston,30-Nov-24
+WI ,won,5 wickets,lost,2nd,ODI , Bangladesh,Basseterre,08-Dec-24
+WI ,won,7 wickets,won,2nd,ODI , Bangladesh,Basseterre,10-Dec-24
+WI ,won,4 wickets,won,2nd,ODI , Bangladesh,Basseterre,12-Dec-24
+WI ,lost,7 runs,won,2nd,T20I , Bangladesh,Kingstown,15-Dec-24
+WI ,lost,27 runs,won,2nd,T20I , Bangladesh,Kingstown,17-Dec-24
+WI ,lost,80 runs,lost,2nd,T20I , Bangladesh,Kingstown,19-Dec-24
+WI ,lost,127 runs,lost,2nd,Test , Pakistan,Multan,17-Jan-25
+WI ,won,120 runs,won,1st,Test , Pakistan,Multan,25-Jan-25
+WI ,lost,124 runs,won,2nd,ODI , Ireland,Dublin,21-May-25
+WI ,n/r,-,lost,1st,ODI , Ireland,Dublin,23-May-25
+WI ,won,197 runs,lost,1st,ODI , Ireland,Dublin,25-May-25
+WI ,lost,238 runs,won,2nd,ODI , England,Birmingham,29-May-25
+WI ,lost,3 wickets,lost,1st,ODI , England,Cardiff,01-Jun-25
+WI ,lost,7 wickets,lost,1st,ODI , England,The Oval,03-Jun-25
+WI ,lost,21 runs,lost,2nd,T20I , England,Chester-le-Street,06-Jun-25
+WI ,lost,4 wickets,lost,1st,T20I , England,Bristol,08-Jun-25
+WI ,lost,37 runs,won,2nd,T20I , England,Southampton,10-Jun-25
+WI ,won,62 runs,lost,1st,T20I , Ireland,Bready,15-Jun-25
+WI ,lost,159 runs,lost,2nd,Test , Australia,Bridgetown,25-Jun-25
+WI ,lost,133 runs,lost,2nd,Test , Australia,St George's,03-Jul-25
+WI ,lost,176 runs,lost,2nd,Test , Australia,Kingston,12-Jul-25
+WI ,lost,3 wickets,lost,1st,T20I , Australia,Kingston,20-Jul-25
+WI ,lost,8 wickets,lost,1st,T20I , Australia,Kingston,22-Jul-25
+WI ,lost,6 wickets,lost,1st,T20I , Australia,Basseterre,25-Jul-25
+WI ,lost,3 wickets,lost,1st,T20I , Australia,Basseterre,26-Jul-25
+WI ,lost,3 wickets,lost,1st,T20I , Australia,Basseterre,28-Jul-25
+WI ,lost,14 runs,won,2nd,T20I , Pakistan,Lauderhill,31-Jul-25
+NZ,won,19 runs,lost,1st,T20I , U.A.E.,Dubai (DICS),17-Aug-23
+NZ,lost,7 wickets,lost,1st,T20I , U.A.E.,Dubai (DICS),19-Aug-23
+NZ,won,32 runs,lost,1st,T20I , U.A.E.,Dubai (DICS),20-Aug-23
+NZ,lost,7 wickets,lost,1st,T20I , England,Chester-le-Street,30-Aug-23
+NZ,lost,95 runs,lost,2nd,T20I , England,Manchester,01-Sep-23
+NZ,won,74 runs,won,1st,T20I , England,Birmingham,03-Sep-23
+NZ,won,6 wickets,lost,2nd,T20I , England,Nottingham,05-Sep-23
+NZ,won,8 wickets,won,2nd,ODI , England,Cardiff,08-Sep-23
+NZ,lost,79 runs,won,2nd,ODI , England,Southampton,10-Sep-23
+NZ,lost,181 runs,won,2nd,ODI , England,The Oval,13-Sep-23
+NZ,lost,100 runs,lost,2nd,ODI , England,Lord's,15-Sep-23
+NZ,n/r,-,lost,1st,ODI , Bangladesh,Mirpur,21-Sep-23
+NZ,won,86 runs,won,1st,ODI , Bangladesh,Mirpur,23-Sep-23
+NZ,won,7 wickets,lost,2nd,ODI , Bangladesh,Mirpur,26-Sep-23
+NZ,won,9 wickets,won,2nd,ODI , England,Ahmedabad,05-Oct-23
+NZ,won,99 runs,lost,1st,ODI , Netherlands,Hyderabad,09-Oct-23
+NZ,won,8 wickets,won,2nd,ODI , Bangladesh,Chennai,13-Oct-23
+NZ,won,149 runs,lost,1st,ODI , Afghanistan,Chennai,18-Oct-23
+NZ,lost,4 wickets,lost,1st,ODI , India,Dharamsala,22-Oct-23
+NZ,lost,5 runs,won,2nd,ODI , Australia,Dharamsala,28-Oct-23
+NZ,lost,190 runs,won,2nd,ODI , South Africa,Pune,01-Nov-23
+NZ,lost,21 runs,lost,1st,ODI , Pakistan,Bengaluru,04-Nov-23
+NZ,won,5 wickets,won,2nd,ODI , Sri Lanka,Bengaluru,09-Nov-23
+NZ,lost,70 runs,lost,2nd,ODI , India,Wankhede,15-Nov-23
+NZ,lost,150 runs,lost,2nd,Test , Bangladesh,Sylhet,28-Nov-23
+NZ,won,4 wickets,lost,2nd,Test , Bangladesh,Mirpur,06-Dec-23
+NZ,won,44 runs,lost,1st,ODI , Bangladesh,Dunedin,17-Dec-23
+NZ,won,7 wickets,won,2nd,ODI , Bangladesh,Nelson,20-Dec-23
+NZ,lost,9 wickets,lost,1st,ODI , Bangladesh,Napier,23-Dec-23
+NZ,lost,5 wickets,lost,1st,T20I , Bangladesh,Napier,27-Dec-23
+NZ,n/r,-,lost,1st,T20I , Bangladesh,Mount Maunganui,29-Dec-23
+NZ,won,17 runs,won,2nd,T20I , Bangladesh,Mount Maunganui,31-Dec-23
+NZ,won,46 runs,lost,1st,T20I , Pakistan,Auckland,12-Jan-24
+NZ,won,21 runs,lost,1st,T20I , Pakistan,Hamilton,14-Jan-24
+NZ,won,45 runs,lost,1st,T20I , Pakistan,Dunedin,17-Jan-24
+NZ,won,7 wickets,won,2nd,T20I , Pakistan,Christchurch,19-Jan-24
+NZ,lost,42 runs,lost,2nd,T20I , Pakistan,Christchurch,21-Jan-24
+NZ,won,281 runs,lost,1st,Test , South Africa,Mount Maunganui,04-Feb-24
+NZ,won,7 wickets,lost,2nd,Test , South Africa,Hamilton,13-Feb-24
+NZ,lost,6 wickets,won,1st,T20I , Australia,Wellington,21-Feb-24
+NZ,lost,72 runs,won,2nd,T20I , Australia,Auckland,23-Feb-24
+NZ,lost,27 runs,won,2nd,T20I , Australia,Auckland,25-Feb-24
+NZ,lost,172 runs,won,2nd,Test , Australia,Wellington,29-Feb-24
+NZ,lost,3 wickets,lost,1st,Test , Australia,Christchurch,08-Mar-24
+NZ,n/r,-,won,1st,T20I , Pakistan,Rawalpindi,18-Apr-24
+NZ,lost,7 wickets,lost,1st,T20I , Pakistan,Rawalpindi,20-Apr-24
+NZ,won,7 wickets,won,2nd,T20I , Pakistan,Rawalpindi,21-Apr-24
+NZ,won,4 runs,lost,1st,T20I , Pakistan,Lahore,25-Apr-24
+NZ,lost,9 runs,won,2nd,T20I , Pakistan,Lahore,27-Apr-24
+NZ,lost,84 runs,won,2nd,T20I , Afghanistan,Providence,07-Jun-24
+NZ,lost,13 runs,won,2nd,T20I , West Indies,Tarouba,12-Jun-24
+NZ,won,9 wickets,won,2nd,T20I , Uganda,Tarouba,14-Jun-24
+NZ,won,7 wickets,won,2nd,T20I , P.N.G.,Tarouba,17-Jun-24
+NZ,lost,63 runs,lost,2nd,Test , Sri Lanka,Galle,18-Sep-24
+NZ,lost,inns & 154 runs,lost,2nd,Test , Sri Lanka,Galle,26-Sep-24
+NZ,won,8 wickets,lost,2nd,Test , India,Bengaluru,16-Oct-24
+NZ,won,113 runs,won,1st,Test , India,Pune,24-Oct-24
+NZ,won,25 runs,won,1st,Test , India,Wankhede,01-Nov-24
+NZ,lost,4 wickets,won,1st,T20I , Sri Lanka,Dambulla,09-Nov-24
+NZ,won,5 runs,lost,1st,T20I , Sri Lanka,Dambulla,10-Nov-24
+NZ,lost,45 runs,lost,2nd,ODI , Sri Lanka,Dambulla,13-Nov-24
+NZ,lost,3 wickets,lost,1st,ODI , Sri Lanka,Pallekele,17-Nov-24
+NZ,n/r,-,won,1st,ODI , Sri Lanka,Pallekele,19-Nov-24
+NZ,lost,8 wickets,lost,1st,Test , England,Christchurch,28-Nov-24
+NZ,lost,323 runs,won,2nd,Test , England,Wellington,06-Dec-24
+NZ,won,423 runs,lost,1st,Test , England,Hamilton,14-Dec-24
+NZ,won,8 runs,lost,1st,T20I , Sri Lanka,Mount Maunganui,28-Dec-24
+NZ,won,45 runs,lost,1st,T20I , Sri Lanka,Mount Maunganui,30-Dec-24
+NZ,lost,7 runs,won,2nd,T20I , Sri Lanka,Nelson,02-Jan-25
+NZ,won,9 wickets,won,2nd,ODI , Sri Lanka,Wellington,05-Jan-25
+NZ,won,113 runs,lost,1st,ODI , Sri Lanka,Hamilton,08-Jan-25
+NZ,lost,140 runs,lost,2nd,ODI , Sri Lanka,Auckland,11-Jan-25
+NZ,won,78 runs,won,1st,ODI , Pakistan,Lahore,08-Feb-25
+NZ,won,6 wickets,won,2nd,ODI , South Africa,Lahore,10-Feb-25
+NZ,won,5 wickets,lost,2nd,ODI , Pakistan,Karachi,14-Feb-25
+NZ,won,60 runs,lost,1st,ODI , Pakistan,Karachi,19-Feb-25
+NZ,won,5 wickets,won,2nd,ODI , Bangladesh,Rawalpindi,24-Feb-25
+NZ,lost,44 runs,won,2nd,ODI , India,Dubai (DICS),02-Mar-25
+NZ,won,50 runs,won,1st,ODI , South Africa,Lahore,05-Mar-25
+NZ,lost,4 wickets,won,1st,ODI , India,Dubai (DICS),09-Mar-25
+NZ,won,9 wickets,won,2nd,T20I , Pakistan,Christchurch,16-Mar-25
+NZ,won,5 wickets,won,2nd,T20I , Pakistan,Dunedin,18-Mar-25
+NZ,lost,9 wickets,lost,1st,T20I , Pakistan,Auckland,21-Mar-25
+NZ,won,115 runs,lost,1st,T20I , Pakistan,Mount Maunganui,23-Mar-25
+NZ,won,8 wickets,won,2nd,T20I , Pakistan,Wellington,26-Mar-25
+NZ,won,73 runs,lost,1st,ODI , Pakistan,Napier,29-Mar-25
+NZ,won,84 runs,lost,1st,ODI , Pakistan,Hamilton,02-Apr-25
+NZ,won,43 runs,lost,1st,ODI , Pakistan,Mount Maunganui,05-Apr-25
+NZ,won,21 runs,lost,1st,T20I , South Africa,Harare,16-Jul-25
+NZ,won,8 wickets,won,2nd,T20I , Zimbabwe,Harare,18-Jul-25
+NZ,won,7 wickets,won,2nd,T20I , South Africa,Harare,22-Jul-25
+NZ,won,60 runs,won,1st,T20I , Zimbabwe,Harare,24-Jul-25
+NZ,won,3 runs,lost,1st,T20I , South Africa,Harare,26-Jul-25
+NZ,won,9 wickets,lost,2nd,Test , Zimbabwe,Bulawayo,30-Jul-25
+SA,lost,111 runs,won,2nd,T20I , Australia,Durban,30-Aug-23
+SA,lost,8 wickets,lost,1st,T20I , Australia,Durban,01-Sep-23
+SA,lost,5 wickets,won,1st,T20I , Australia,Durban,03-Sep-23
+SA,lost,3 wickets,lost,1st,ODI , Australia,Bloemfontein,07-Sep-23
+SA,lost,123 runs,won,2nd,ODI , Australia,Bloemfontein,09-Sep-23
+SA,won,111 runs,lost,1st,ODI , Australia,Potchefstroom,12-Sep-23
+SA,won,164 runs,lost,1st,ODI , Australia,Centurion,15-Sep-23
+SA,won,122 runs,lost,1st,ODI , Australia,Johannesburg,17-Sep-23
+SA,lost,243 runs,lost,2nd,ODI , India,Eden Gardens,05-Nov-23
+SA,won,5 wickets,won,2nd,T20I , India,Gqeberha,12-Dec-23
+SA,lost,106 runs,won,2nd,T20I , India,Johannesburg,14-Dec-23
+SA,lost,8 wickets,won,1st,ODI , India,Johannesburg,17-Dec-23
+SA,won,8 wickets,won,2nd,ODI , India,Gqeberha,19-Dec-23
+SA,lost,78 runs,won,2nd,ODI , India,Paarl,21-Dec-23
+SA,won,inns & 32 runs,won,2nd,Test , India,Centurion,26-Dec-23
+SA,lost,7 wickets,won,1st,Test , India,Cape Town,03-Jan-24
+SA,lost,281 runs,won,2nd,Test , New Zealand,Mount Maunganui,04-Feb-24
+SA,lost,7 wickets,won,1st,Test , New Zealand,Hamilton,13-Feb-24
+SA,lost,28 runs,won,2nd,T20I , West Indies,Kingston,23-May-24
+SA,lost,16 runs,lost,2nd,T20I , West Indies,Kingston,25-May-24
+SA,lost,8 wickets,won,1st,T20I , West Indies,Kingston,26-May-24
+SA,won,3 wickets,won,2nd,T20I , West Indies,North Sound,23-Jun-24
+SA,draw,-,won,1st,Test , West Indies,Port of Spain,07-Aug-24
+SA,won,40 runs,won,1st,Test , West Indies,Providence,15-Aug-24
+SA,lost,7 wickets,lost,1st,T20I , West Indies,Tarouba,23-Aug-24
+SA,lost,30 runs,won,2nd,T20I , West Indies,Tarouba,25-Aug-24
+SA,lost,8 wickets,lost,1st,T20I , West Indies,Tarouba,27-Aug-24
+SA,won,7 wickets,lost,2nd,Test , Bangladesh,Mirpur,21-Oct-24
+SA,won,inns & 273 runs,won,1st,Test , Bangladesh,Chattogram,29-Oct-24
+SA,lost,61 runs,won,2nd,T20I , India,Durban,08-Nov-24
+SA,won,3 wickets,won,2nd,T20I , India,Gqeberha,10-Nov-24
+SA,lost,11 runs,won,2nd,T20I , India,Centurion,13-Nov-24
+SA,lost,135 runs,lost,2nd,T20I , India,Johannesburg,15-Nov-24
+SA,won,233 runs,lost,1st,Test , Sri Lanka,Durban,27-Nov-24
+SA,won,109 runs,won,1st,Test , Sri Lanka,Gqeberha,05-Dec-24
+SA,won,11 runs,won,1st,T20I , Pakistan,Durban,10-Dec-24
+SA,won,7 wickets,lost,2nd,T20I , Pakistan,Centurion,13-Dec-24
+SA,lost,3 wickets,won,1st,ODI , Pakistan,Paarl,17-Dec-24
+SA,lost,81 runs,won,2nd,ODI , Pakistan,Cape Town,19-Dec-24
+SA,lost,36 runs,won,2nd,ODI , Pakistan,Johannesburg,22-Dec-24
+SA,won,2 wickets,won,2nd,Test , Pakistan,Centurion,26-Dec-24
+SA,won,10 wickets,won,1st,Test , Pakistan,Cape Town,03-Jan-25
+SA,lost,6 wickets,won,1st,ODI , Pakistan,Karachi,12-Feb-25
+SA,won,328 runs,won,1st,Test , Zimbabwe,Bulawayo,28-Jun-25
+SA,won,inns & 236 runs,lost,1st,Test , Zimbabwe,Bulawayo,06-Jul-25
+SA,won,5 wickets,won,2nd,T20I , Zimbabwe,Harare,14-Jul-25
+SA,won,7 wickets,won,2nd,T20I , Zimbabwe,Harare,20-Jul-25
+PAK,won,142 runs,won,1st,ODI , Afghanistan,Hambantota,22-Aug-23
+PAK,won,1 wickets,lost,2nd,ODI , Afghanistan,Hambantota,24-Aug-23
+PAK,won,59 runs,won,1st,ODI , Afghanistan,Colombo (RPS),26-Aug-23
+PAK,won,238 runs,won,1st,ODI , Nepal,Multan,30-Aug-23
+PAK,n/r,-,lost,2nd,ODI , India,Pallekele,02-Sep-23
+PAK,won,7 wickets,lost,2nd,ODI , Bangladesh,Lahore,06-Sep-23
+PAK,lost,228 runs,won,2nd,ODI , India,Colombo (RPS),10-Sep-23
+PAK,lost,2 wickets,won,1st,ODI , Sri Lanka,Colombo (RPS),14-Sep-23
+PAK,won,68 runs,lost,1st,T20I , Hong Kong,Hangzhou,03-Oct-23
+PAK,lost,4 wickets,lost,1st,T20I , Afghanistan,Hangzhou,06-Oct-23
+PAK,won,81 runs,lost,1st,ODI , Netherlands,Hyderabad,06-Oct-23
+PAK,lost,6 wickets,lost,1st,T20I , Bangladesh,Hangzhou,07-Oct-23
+PAK,won,6 wickets,lost,2nd,ODI , Sri Lanka,Hyderabad,10-Oct-23
+PAK,lost,7 wickets,lost,1st,ODI , India,Ahmedabad,14-Oct-23
+PAK,lost,62 runs,won,2nd,ODI , Australia,Bengaluru,20-Oct-23
+PAK,lost,8 wickets,won,1st,ODI , Afghanistan,Chennai,23-Oct-23
+PAK,lost,1 wickets,won,1st,ODI , South Africa,Chennai,27-Oct-23
+PAK,won,7 wickets,lost,2nd,ODI , Bangladesh,Eden Gardens,31-Oct-23
+PAK,won,21 runs,won,2nd,ODI , New Zealand,Bengaluru,04-Nov-23
+PAK,lost,93 runs,lost,2nd,ODI , England,Eden Gardens,11-Nov-23
+PAK,lost,360 runs,lost,2nd,Test , Australia,Perth,14-Dec-23
+PAK,lost,79 runs,won,2nd,Test , Australia,Melbourne,26-Dec-23
+PAK,lost,8 wickets,won,1st,Test , Australia,Sydney,03-Jan-24
+PAK,lost,46 runs,won,2nd,T20I , New Zealand,Auckland,12-Jan-24
+PAK,lost,21 runs,won,2nd,T20I , New Zealand,Hamilton,14-Jan-24
+PAK,lost,45 runs,won,2nd,T20I , New Zealand,Dunedin,17-Jan-24
+PAK,lost,7 wickets,lost,1st,T20I , New Zealand,Christchurch,19-Jan-24
+PAK,won,42 runs,won,1st,T20I , New Zealand,Christchurch,21-Jan-24
+PAK,n/r,-,lost,2nd,T20I , New Zealand,Rawalpindi,18-Apr-24
+PAK,won,7 wickets,won,2nd,T20I , New Zealand,Rawalpindi,20-Apr-24
+PAK,lost,7 wickets,lost,1st,T20I , New Zealand,Rawalpindi,21-Apr-24
+PAK,lost,4 runs,won,2nd,T20I , New Zealand,Lahore,25-Apr-24
+PAK,won,9 runs,lost,1st,T20I , New Zealand,Lahore,27-Apr-24
+PAK,lost,5 wickets,lost,1st,T20I , Ireland,Dublin,10-May-24
+PAK,won,7 wickets,won,2nd,T20I , Ireland,Dublin,12-May-24
+PAK,won,6 wickets,won,2nd,T20I , Ireland,Dublin,14-May-24
+PAK,lost,23 runs,won,2nd,T20I , England,Birmingham,25-May-24
+PAK,lost,7 wickets,lost,1st,T20I , England,The Oval,30-May-24
+PAK,tied,-,lost,1st,T20I , U.S.A.,Dallas,06-Jun-24
+PAK,lost,6 runs,won,2nd,T20I , India,New York,09-Jun-24
+PAK,won,7 wickets,won,2nd,T20I , Canada,New York,11-Jun-24
+PAK,won,3 wickets,won,2nd,T20I , Ireland,Lauderhill,16-Jun-24
+PAK,lost,10 wickets,lost,1st,Test , Bangladesh,Rawalpindi,21-Aug-24
+PAK,lost,6 wickets,lost,1st,Test , Bangladesh,Rawalpindi,30-Aug-24
+PAK,lost,inns & 47 runs,won,1st,Test , England,Multan,07-Oct-24
+PAK,won,152 runs,won,1st,Test , England,Multan,15-Oct-24
+PAK,won,9 wickets,lost,2nd,Test , England,Rawalpindi,24-Oct-24
+PAK,lost,2 wickets,lost,1st,ODI , Australia,Melbourne,04-Nov-24
+PAK,won,9 wickets,won,2nd,ODI , Australia,Adelaide,08-Nov-24
+PAK,won,8 wickets,won,2nd,ODI , Australia,Perth,10-Nov-24
+PAK,lost,29 runs,won,2nd,T20I , Australia,Brisbane,14-Nov-24
+PAK,lost,13 runs,lost,2nd,T20I , Australia,Sydney,16-Nov-24
+PAK,lost,7 wickets,won,1st,T20I , Australia,Hobart,18-Nov-24
+PAK,lost,80 runs,won,2nd,ODI , Zimbabwe,Bulawayo,24-Nov-24
+PAK,won,10 wickets,lost,2nd,ODI , Zimbabwe,Bulawayo,26-Nov-24
+PAK,won,99 runs,won,1st,ODI , Zimbabwe,Bulawayo,28-Nov-24
+PAK,won,57 runs,won,1st,T20I , Zimbabwe,Bulawayo,01-Dec-24
+PAK,won,10 wickets,lost,2nd,T20I , Zimbabwe,Bulawayo,03-Dec-24
+PAK,lost,2 wickets,won,1st,T20I , Zimbabwe,Bulawayo,05-Dec-24
+PAK,lost,11 runs,lost,2nd,T20I , South Africa,Durban,10-Dec-24
+PAK,lost,7 wickets,won,1st,T20I , South Africa,Centurion,13-Dec-24
+PAK,won,3 wickets,lost,2nd,ODI , South Africa,Paarl,17-Dec-24
+PAK,won,81 runs,lost,1st,ODI , South Africa,Cape Town,19-Dec-24
+PAK,won,36 runs,lost,1st,ODI , South Africa,Johannesburg,22-Dec-24
+PAK,lost,2 wickets,lost,1st,Test , South Africa,Centurion,26-Dec-24
+PAK,lost,10 wickets,lost,2nd,Test , South Africa,Cape Town,03-Jan-25
+PAK,won,127 runs,won,1st,Test , West Indies,Multan,17-Jan-25
+PAK,lost,120 runs,lost,2nd,Test , West Indies,Multan,25-Jan-25
+PAK,lost,78 runs,lost,2nd,ODI , New Zealand,Lahore,08-Feb-25
+PAK,won,6 wickets,lost,2nd,ODI , South Africa,Karachi,12-Feb-25
+PAK,lost,5 wickets,won,1st,ODI , New Zealand,Karachi,14-Feb-25
+PAK,lost,60 runs,won,2nd,ODI , New Zealand,Karachi,19-Feb-25
+PAK,lost,6 wickets,won,1st,ODI , India,Dubai (DICS),23-Feb-25
+PAK,lost,9 wickets,lost,1st,T20I , New Zealand,Christchurch,16-Mar-25
+PAK,lost,5 wickets,lost,1st,T20I , New Zealand,Dunedin,18-Mar-25
+PAK,won,9 wickets,won,2nd,T20I , New Zealand,Auckland,21-Mar-25
+PAK,lost,115 runs,won,2nd,T20I , New Zealand,Mount Maunganui,23-Mar-25
+PAK,lost,8 wickets,lost,1st,T20I , New Zealand,Wellington,26-Mar-25
+PAK,lost,73 runs,won,2nd,ODI , New Zealand,Napier,29-Mar-25
+PAK,lost,84 runs,won,2nd,ODI , New Zealand,Hamilton,02-Apr-25
+PAK,lost,43 runs,won,2nd,ODI , New Zealand,Mount Maunganui,05-Apr-25
+PAK,won,37 runs,won,1st,T20I , Bangladesh,Lahore,28-May-25
+PAK,won,57 runs,won,1st,T20I , Bangladesh,Lahore,30-May-25
+PAK,won,7 wickets,won,2nd,T20I , Bangladesh,Lahore,01-Jun-25
+PAK,lost,7 wickets,lost,1st,T20I , Bangladesh,Mirpur,20-Jul-25
+PAK,lost,8 runs,won,2nd,T20I , Bangladesh,Mirpur,22-Jul-25
+PAK,won,74 runs,lost,1st,T20I , Bangladesh,Mirpur,24-Jul-25
+PAK,won,14 runs,lost,1st,T20I , West Indies,Lauderhill,31-Jul-25
+BAN,lost,5 wickets,won,1st,ODI , Sri Lanka,Pallekele,31-Aug-23
+BAN,won,89 runs,won,1st,ODI , Afghanistan,Lahore,03-Sep-23
+BAN,lost,7 wickets,won,1st,ODI , Pakistan,Lahore,06-Sep-23
+BAN,lost,21 runs,won,2nd,ODI , Sri Lanka,Colombo (RPS),09-Sep-23
+BAN,won,6 runs,lost,1st,ODI , India,Colombo (RPS),15-Sep-23
+BAN,n/r,-,won,2nd,ODI , New Zealand,Mirpur,21-Sep-23
+BAN,lost,86 runs,lost,2nd,ODI , New Zealand,Mirpur,23-Sep-23
+BAN,lost,7 wickets,won,1st,ODI , New Zealand,Mirpur,26-Sep-23
+BAN,won,2 runs,won,1st,T20I , Malaysia,Hangzhou,04-Oct-23
+BAN,lost,9 wickets,lost,1st,T20I , India,Hangzhou,06-Oct-23
+BAN,won,6 wickets,won,2nd,T20I , Pakistan,Hangzhou,07-Oct-23
+BAN,won,6 wickets,won,2nd,ODI , Afghanistan,Dharamsala,07-Oct-23
+BAN,lost,137 runs,won,2nd,ODI , England,Dharamsala,10-Oct-23
+BAN,lost,8 wickets,lost,1st,ODI , New Zealand,Chennai,13-Oct-23
+BAN,lost,7 wickets,won,1st,ODI , India,Pune,19-Oct-23
+BAN,lost,149 runs,lost,2nd,ODI , South Africa,Wankhede,24-Oct-23
+BAN,lost,87 runs,lost,2nd,ODI , Netherlands,Eden Gardens,28-Oct-23
+BAN,lost,7 wickets,won,1st,ODI , Pakistan,Eden Gardens,31-Oct-23
+BAN,won,3 wickets,won,2nd,ODI , Sri Lanka,Delhi,06-Nov-23
+BAN,lost,8 wickets,lost,1st,ODI , Australia,Pune,11-Nov-23
+BAN,won,150 runs,won,1st,Test , New Zealand,Sylhet,28-Nov-23
+BAN,lost,4 wickets,won,1st,Test , New Zealand,Mirpur,06-Dec-23
+BAN,lost,44 runs,won,2nd,ODI , New Zealand,Dunedin,17-Dec-23
+BAN,lost,7 wickets,lost,1st,ODI , New Zealand,Nelson,20-Dec-23
+BAN,won,9 wickets,won,2nd,ODI , New Zealand,Napier,23-Dec-23
+BAN,won,5 wickets,won,2nd,T20I , New Zealand,Napier,27-Dec-23
+BAN,n/r,-,won,2nd,T20I , New Zealand,Mount Maunganui,29-Dec-23
+BAN,lost,17 runs,lost,1st,T20I , New Zealand,Mount Maunganui,31-Dec-23
+BAN,lost,3 runs,won,2nd,T20I , Sri Lanka,Sylhet,04-Mar-24
+BAN,won,8 wickets,won,2nd,T20I , Sri Lanka,Sylhet,06-Mar-24
+BAN,lost,28 runs,won,2nd,T20I , Sri Lanka,Sylhet,09-Mar-24
+BAN,won,6 wickets,lost,2nd,ODI , Sri Lanka,Chattogram,13-Mar-24
+BAN,lost,3 wickets,lost,1st,ODI , Sri Lanka,Chattogram,15-Mar-24
+BAN,won,4 wickets,lost,2nd,ODI , Sri Lanka,Chattogram,18-Mar-24
+BAN,lost,328 runs,won,2nd,Test , Sri Lanka,Sylhet,22-Mar-24
+BAN,lost,192 runs,lost,2nd,Test , Sri Lanka,Chattogram,30-Mar-24
+BAN,won,8 wickets,won,2nd,T20I , Zimbabwe,Chattogram,03-May-24
+BAN,won,6 wickets,won,2nd,T20I , Zimbabwe,Chattogram,05-May-24
+BAN,won,9 runs,lost,1st,T20I , Zimbabwe,Chattogram,07-May-24
+BAN,won,5 runs,lost,1st,T20I , Zimbabwe,Mirpur,10-May-24
+BAN,lost,8 wickets,lost,1st,T20I , Zimbabwe,Mirpur,12-May-24
+BAN,lost,5 wickets,lost,1st,T20I , U.S.A.,Prairie View,21-May-24
+BAN,lost,6 runs,won,2nd,T20I , U.S.A.,Prairie View,23-May-24
+BAN,won,10 wickets,won,2nd,T20I , U.S.A.,Prairie View,25-May-24
+BAN,won,2 wickets,won,2nd,T20I , Sri Lanka,Dallas,07-Jun-24
+BAN,lost,4 runs,lost,2nd,T20I , South Africa,New York,10-Jun-24
+BAN,won,25 runs,lost,1st,T20I , Netherlands,Kingstown,13-Jun-24
+BAN,won,21 runs,lost,1st,T20I , Nepal,Kingstown,16-Jun-24
+BAN,lost,28 runs,lost,1st,T20I , Australia,North Sound,20-Jun-24
+BAN,lost,50 runs,won,2nd,T20I , India,North Sound,22-Jun-24
+BAN,lost,8 runs,lost,2nd,T20I , Afghanistan,Kingstown,24-Jun-24
+BAN,won,10 wickets,won,2nd,Test , Pakistan,Rawalpindi,21-Aug-24
+BAN,won,6 wickets,won,2nd,Test , Pakistan,Rawalpindi,30-Aug-24
+BAN,lost,280 runs,won,2nd,Test , India,Chennai,19-Sep-24
+BAN,lost,7 wickets,lost,1st,Test , India,Kanpur,27-Sep-24
+BAN,lost,7 wickets,lost,1st,T20I , India,Gwalior,06-Oct-24
+BAN,lost,86 runs,won,2nd,T20I , India,Delhi,09-Oct-24
+BAN,lost,133 runs,lost,2nd,T20I , India,Hyderabad,12-Oct-24
+BAN,lost,7 wickets,won,1st,Test , South Africa,Mirpur,21-Oct-24
+BAN,lost,inns & 273 runs,lost,2nd,Test , South Africa,Chattogram,29-Oct-24
+BAN,lost,92 runs,lost,2nd,ODI , Afghanistan,Sharjah,06-Nov-24
+BAN,won,68 runs,won,1st,ODI , Afghanistan,Sharjah,09-Nov-24
+BAN,lost,5 wickets,won,1st,ODI , Afghanistan,Sharjah,11-Nov-24
+BAN,lost,201 runs,won,2nd,Test , West Indies,North Sound,22-Nov-24
+BAN,won,101 runs,won,1st,Test , West Indies,Kingston,30-Nov-24
+BAN,lost,5 wickets,won,1st,ODI , West Indies,Basseterre,08-Dec-24
+BAN,lost,7 wickets,lost,1st,ODI , West Indies,Basseterre,10-Dec-24
+BAN,lost,4 wickets,lost,1st,ODI , West Indies,Basseterre,12-Dec-24
+BAN,won,7 runs,lost,1st,T20I , West Indies,Kingstown,15-Dec-24
+BAN,won,27 runs,lost,1st,T20I , West Indies,Kingstown,17-Dec-24
+BAN,won,80 runs,won,1st,T20I , West Indies,Kingstown,19-Dec-24
+BAN,lost,6 wickets,won,1st,ODI , India,Dubai (DICS),20-Feb-25
+BAN,lost,5 wickets,lost,1st,ODI , New Zealand,Rawalpindi,24-Feb-25
+BAN,lost,3 wickets,won,1st,Test , Zimbabwe,Sylhet,20-Apr-25
+BAN,won,inns & 106 runs,lost,2nd,Test , Zimbabwe,Chattogram,28-Apr-25
+BAN,won,27 runs,lost,1st,T20I , U.A.E.,Sharjah,17-May-25
+BAN,lost,2 wickets,lost,1st,T20I , U.A.E.,Sharjah,19-May-25
+BAN,lost,7 wickets,lost,1st,T20I , U.A.E.,Sharjah,21-May-25
+BAN,lost,37 runs,lost,2nd,T20I , Pakistan,Lahore,28-May-25
+BAN,lost,57 runs,lost,2nd,T20I , Pakistan,Lahore,30-May-25
+BAN,lost,7 wickets,lost,1st,T20I , Pakistan,Lahore,01-Jun-25
+BAN,draw,-,won,1st,Test , Sri Lanka,Galle,17-Jun-25
+BAN,lost,inns & 78 runs,won,1st,Test , Sri Lanka,Colombo (SSC),25-Jun-25
+BAN,lost,77 runs,lost,2nd,ODI , Sri Lanka,Colombo (RPS),02-Jul-25
+BAN,won,16 runs,won,1st,ODI , Sri Lanka,Colombo (RPS),05-Jul-25
+BAN,lost,99 runs,lost,2nd,ODI , Sri Lanka,Pallekele,08-Jul-25
+BAN,lost,7 wickets,lost,1st,T20I , Sri Lanka,Pallekele,10-Jul-25
+BAN,won,83 runs,lost,1st,T20I , Sri Lanka,Dambulla,13-Jul-25
+BAN,won,8 wickets,lost,2nd,T20I , Sri Lanka,Colombo (RPS),16-Jul-25
+BAN,won,7 wickets,won,2nd,T20I , Pakistan,Mirpur,20-Jul-25
+BAN,won,8 runs,lost,1st,T20I , Pakistan,Mirpur,22-Jul-25
+BAN,lost,74 runs,won,2nd,T20I , Pakistan,Mirpur,24-Jul-25
+NED,lost,81 runs,won,2nd,ODI , Pakistan,Hyderabad,06-Oct-23
+NED,lost,99 runs,won,2nd,ODI , New Zealand,Hyderabad,09-Oct-23
+NED,won,38 runs,lost,1st,ODI , South Africa,Dharamsala,17-Oct-23
+NED,lost,5 wickets,won,1st,ODI , Sri Lanka,Lucknow,21-Oct-23
+NED,lost,309 runs,lost,2nd,ODI , Australia,Delhi,25-Oct-23
+NED,won,87 runs,won,1st,ODI , Bangladesh,Eden Gardens,28-Oct-23
+NED,lost,7 wickets,won,1st,ODI , Afghanistan,Lucknow,03-Nov-23
+NED,lost,160 runs,lost,2nd,ODI , England,Pune,08-Nov-23
+NED,lost,160 runs,lost,2nd,ODI , India,Bengaluru,12-Nov-23
+NED,lost,9 wickets,lost,1st,ODI , Nepal,Kirtipur,17-Feb-24
+NED,won,7 wickets,won,2nd,ODI , Namibia,Kirtipur,19-Feb-24
+NED,lost,24 runs,won,2nd,ODI , Namibia,Kirtipur,23-Feb-24
+NED,won,8 wickets,won,2nd,ODI , Nepal,Kirtipur,25-Feb-24
+NED,won,2 runs,lost,1st,T20I , Nepal,Kirtipur,28-Feb-24
+NED,won,59 runs,won,1st,T20I , Namibia,Kirtipur,29-Feb-24
+NED,lost,6 wickets,won,1st,T20I , Nepal,Kirtipur,02-Mar-24
+NED,n/r,-,won,2nd,T20I , Namibia,Kirtipur,03-Mar-24
+NED,won,4 wickets,lost,2nd,T20I , Nepal,Kirtipur,05-Mar-24
+NED,won,41 runs,lost,1st,T20I , Scotland,The Hague,18-May-24
+NED,lost,1 runs,won,2nd,T20I , Ireland,The Hague,19-May-24
+NED,lost,71 runs,won,2nd,T20I , Scotland,The Hague,22-May-24
+NED,lost,3 runs,won,2nd,T20I , Ireland,The Hague,24-May-24
+NED,won,6 wickets,won,2nd,T20I , Nepal,Dallas,04-Jun-24
+NED,lost,4 wickets,lost,1st,T20I , South Africa,New York,08-Jun-24
+NED,lost,25 runs,won,2nd,T20I , Bangladesh,Kingstown,13-Jun-24
+NED,lost,83 runs,won,2nd,T20I , Sri Lanka,Gros Islet,16-Jun-24
+NED,won,5 wickets,lost,2nd,ODI , Canada,The Hague,11-Aug-24
+NED,won,19 runs,lost,1st,ODI , U.S.A.,The Hague,15-Aug-24
+NED,won,63 runs,lost,1st,ODI , Canada,Rotterdam,17-Aug-24
+NED,won,27 runs,lost,1st,ODI , U.S.A.,Rotterdam,21-Aug-24
+NED,won,5 wickets,lost,2nd,T20I , Canada,Utrecht,23-Aug-24
+NED,won,102 runs,lost,1st,T20I , U.S.A.,Utrecht,25-Aug-24
+NED,lost,8 runs,won,2nd,T20I , Canada,Utrecht,26-Aug-24
+NED,won,4 runs,won,1st,T20I , U.S.A.,The Hague,28-Aug-24
+NED,lost,26 runs,won,2nd,ODI , U.A.E.,Al Amerat,03-Nov-24
+NED,lost,8 wickets,lost,1st,ODI , Oman,Al Amerat,05-Nov-24
+NED,won,67 runs,lost,1st,ODI , U.A.E.,Al Amerat,09-Nov-24
+NED,lost,1 runs,won,2nd,ODI , Oman,Al Amerat,11-Nov-24
+NED,lost,3 wickets,lost,1st,T20I , Oman,Al Amerat,13-Nov-24
+NED,won,50 runs,lost,1st,T20I , Oman,Al Amerat,14-Nov-24
+NED,won,29 runs,lost,1st,T20I , Oman,Al Amerat,16-Nov-24
+NED,n/r,-,won,-,ODI , Canada,Windhoek,05-Mar-25
+NED,won,53 runs,lost,1st,ODI , Namibia,Windhoek,07-Mar-25
+NED,won,7 wickets,lost,2nd,ODI , Namibia,Windhoek,13-Mar-25
+NED,won,113 runs,lost,1st,ODI , U.A.E.,Amstelveen,06-May-25
+NED,won,19 runs,won,1st,ODI , Scotland,Amstelveen,10-May-25
+NED,won,5 wickets,lost,2nd,ODI , U.A.E.,Utrecht,12-May-25
+NED,lost,145 runs,won,2nd,ODI , Scotland,Utrecht,16-May-25
+NED,lost,5 wickets,won,1st,ODI , Nepal,Dundee,04-Jun-25
+NED,lost,44 runs,won,2nd,ODI , Scotland,Dundee,06-Jun-25
+NED,lost,16 runs,won,2nd,ODI , Nepal,Dundee,10-Jun-25
+NED,won,4 wickets,lost,2nd,ODI , Scotland,Dundee,12-Jun-25
+NED,lost,39 runs,won,2nd,T20I , Scotland,Glasgow,15-Jun-25
+NED,tied,-,lost,1st,T20I , Nepal,Glasgow,16-Jun-25
+NED,won,17 runs,lost,1st,T20I , Scotland,Glasgow,18-Jun-25
+NED,lost,6 wickets,lost,1st,T20I , Nepal,Glasgow,19-Jun-25
+NED,won,7 wickets,won,2nd,T20I , Jersey,The Hague,05-Jul-25
+NED,lost,6 runs,lost,2nd,T20I , Scotland,The Hague,08-Jul-25
+NED,won,73 runs,won,1st,T20I , Guernsey,The Hague,09-Jul-25
+NED,won,9 wickets,lost,2nd,T20I , Italy,The Hague,11-Jul-25
