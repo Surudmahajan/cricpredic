@@ -13,7 +13,7 @@ A simple Flask-based web application that predicts the winning probabilities of 
   - Toss advantage
   - Opponent performance history
 - Displays a **comparison chart** between teams.
-- Embedded **live cricket scores** =via iframes.
+- Embedded **live cricket scores** via iframes.
 
 ## Get a live demo 
 [Visit CricPredic](https://cricpredic.onrender.com/)
