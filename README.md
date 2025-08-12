@@ -1,6 +1,6 @@
 # 🏏 CricPredic
 
-A simple Flask-based web application that predicts the winning probabilities of cricket matches between two teams using historical performance data, and display's Live Cricket Scores
+A simple Flask-based web application that predicts the winning probabilities of cricket matches between two teams using historical performance data, and displays Live Cricket Scores
 
 <img width="1350" height="719" alt="image" src="https://github.com/user-attachments/assets/2ded5879-8429-4c28-bc89-17e4f48c1ccc" />
 
