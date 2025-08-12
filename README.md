@@ -1,4 +1,4 @@
-# # 🏏 CricPredic
+# 🏏 CricPredic
 
 A simple Flask-based web application that predicts the winning probabilities of cricket matches between two teams using historical performance data, and display's Live Cricket Scores
 
