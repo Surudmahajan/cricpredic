@@ -56,7 +56,7 @@ python app.py
 The app will run at: http://127.0.0.1:5000
 
 ## 🌐 Deployment
-** This app is deployed on Render using: **
+**This app is deployed on Render using:**
 
 - requirements.txt
 
@@ -64,7 +64,7 @@ The app will run at: http://127.0.0.1:5000
 
 ## ✍🏻Author
 
-** Surud Mahajan **
+**Surud Mahajan**
 
 ## 📜 License
 **This project is open-source and available under the MIT License.**
